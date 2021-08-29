@@ -1,0 +1,1 @@
+SELECT Ename,Salary,Hire_date FROM employe where Eno>500;

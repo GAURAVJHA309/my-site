@@ -1,0 +1,1 @@
+SELECT Ename,Salary FROM employe where Salary between 15000 AND 20000;

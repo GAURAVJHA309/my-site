@@ -1,0 +1,1 @@
+SELECT Job_type FROM employe;

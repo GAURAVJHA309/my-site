@@ -1,0 +1,1 @@
+SELECT Dno,Ename,Job_type FROM employe WHERE dno=(SELECT dno FROM department where dname='coding');

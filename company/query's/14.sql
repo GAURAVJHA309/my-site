@@ -1,0 +1,1 @@
+SELECT Ename,Salary FROM employe where Dno=101;

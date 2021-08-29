@@ -1,0 +1,1 @@
+SELECT * FROM employe ORDER BY Salary DESC ;
